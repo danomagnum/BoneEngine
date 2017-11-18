@@ -1,6 +1,0 @@
-STR 0 40 20
-BRA spine 105 20
-BRA leftthigh -144.0 20
-BRA leftshin 152.0 20
-BRA rightthigh -133.0 20
-BRA rightshin 141.0 20
