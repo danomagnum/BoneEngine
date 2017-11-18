@@ -1,0 +1,20 @@
+STR 20 0 25 0
+BRA leftthigh -38.0 25 0
+BRA leftshin 42.0 25 0
+BRA rightthigh 10.0 25 0
+BRA rightshin 30.0 25 0
+
+BRA leftthigh -19.0 25 25
+BRA leftshin 42.0 25 25
+BRA rightthigh -45.0 25 25
+BRA rightshin 30.0 25 25
+
+BRR rightbicep -5 25
+BRR leftbicep 5 25
+BRR rightforearm 5 25
+BRR leftforearm -5 25
+
+BRR rightforearm -5 25 25
+BRR leftforearm 5 25 25
+BRR rightbicep 5 25 25
+BRR leftbicep -5 25 25

@@ -1,0 +1,13 @@
+STR 0 -80 40 10
+
+BRA leftthigh -2.0 20 0
+BRA leftshin 23.0 20 0
+BRA rightthigh -28.8 20 0
+BRA rightshin 33.0 20 0
+
+
+BRA leftthigh -82.0 20 20
+BRA leftshin 110.0 20 20
+BRA rightthigh -105.8 20 20
+BRA rightshin 108.0 20 20
+

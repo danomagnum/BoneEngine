@@ -1,0 +1,11 @@
+AO rightforearm 10 1 8 0
+AO rightforearm 15 1 5 6
+
+BRA leftbicep -49.0 10
+BRA leftforearm -85.0 10
+BRA rightbicep -87.0 10
+BRA rightforearm -6.0 10
+BRA leftbicep -84 20 10
+BRA leftforearm -85 20 10
+BRA rightbicep -70 20 10
+BRA rightforearm -117 20 10
